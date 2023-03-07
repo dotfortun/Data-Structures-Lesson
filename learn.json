@@ -1,0 +1,9 @@
+{
+  "grading": "isolated",
+  "difficulty": "intermediate",
+  "duration": 5,
+  "description": "",
+  "title": "Data Structures (Python)",
+  "slug": "data-structures-python",
+  "exercisesPath": "./exercises/"
+}
